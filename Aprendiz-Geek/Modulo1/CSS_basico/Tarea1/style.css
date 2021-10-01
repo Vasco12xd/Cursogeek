@@ -1,0 +1,13 @@
+a:link {
+    color: green;
+    font-weight: bold;
+  }
+  a:visited{
+      background-color: darkred;
+  }
+a:hover{
+    font-size: 20px;
+}
+.tel:required{
+
+}
